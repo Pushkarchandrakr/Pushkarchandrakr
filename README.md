@@ -22,3 +22,6 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+<a href="https://github.com/pushkarchandrakr/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarchandrakr" />
+</a>
