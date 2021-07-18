@@ -35,6 +35,14 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 
 **Page Views**(Counting since 18th july 2021): ![Visitor Count](https://profile-counter.glitch.me/pushkarchandrakumar/count.svg)
 
+
+## Metrics
+<div align="center">
+
+![Metrics](https://github.com/pushkarchandrakumar/pushkarchandrakumar/blob/main/github-metrics.svg)</div>
+
+<br>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
