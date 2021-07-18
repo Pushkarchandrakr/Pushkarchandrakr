@@ -39,7 +39,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 ## Metrics
 <div align="center">
 
-![Metrics](https://github.com/pushkarchandrakumar/pushkarchandrakumar/blob/main/github-metrics.svg)</div>
+![Metrics](https://metrics.lecoq.io/pushkarchandrakumar?template=classic&config.timezone=Asia%2FCalcutta)</div>
 
 <br>
 
