@@ -2,7 +2,7 @@
  <img align="left" src="https://user-images.githubusercontent.com/67560900/107698101-10797e00-6cda-11eb-8357-b7808d66151a.gif" width="310px" alt="hellogif">
 </p><br/>
 
-### Hi  👋 I'm [***Pushkarchandrakumar!***](https://github.com/Pushkarchandrakumar/)
+### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="39px">  I'm [***Pushkarchandrakumar!***](https://github.com/Pushkarchandrakumar/)
 ![](https://komarev.com/ghpvc/?username=Pushkarchandrakumar&color=green)
 
 <!--
