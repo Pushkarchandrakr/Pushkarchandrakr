@@ -39,7 +39,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 ## Metrics
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/pushkarchandrakumar?template=classic&config.timezone=Asia%2FCalcutta)</div>
+![Metrics](https://metrics.lecoq.io/pushkarchandraKumar?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)</div>
 
 <br>
 
