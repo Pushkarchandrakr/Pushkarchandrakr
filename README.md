@@ -41,7 +41,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark" />
 
 <details><summary><b>My Repository</b></summary>
 <br/>
@@ -63,7 +63,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 ## Metrics
 <div align="center">
 
-![Metrics](https://metrics.lecoq.io/pushkarchandraKumar?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta)</div>
+![Metrics](https://metrics.lecoq.io/pushkarchandraKumar?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FCalcutta )</div>
 
 <br>
 
@@ -82,6 +82,6 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 <a href="https://github.com/pushkarchandrakumar/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarchandrakumar" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarchandrakumar&theme=dark" />
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkarchandrakumar&" alt="Pushkarchandrakumar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkarchandrakumar&theme=dark" alt="Pushkarchandrakumar" /></p>
