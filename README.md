@@ -41,7 +41,20 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<details><summary><b>My Repository</b></summary>
+<br/>
+
+<a href="https://github.com/Pushkarchandrakumar/Github-user-Finder">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Github-user-Finder&theme=dark" />
+</a>
+<a href="https://github.com/Pushkarchandrakumar/Paintpad-tool">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Paintpad-tool&theme=dark" />
+</a>
+
+
+</details>
 
 
 **Page Views**(Counting since 18th july 2021): ![Visitor Count](https://profile-counter.glitch.me/pushkarchandrakumar/count.svg)
