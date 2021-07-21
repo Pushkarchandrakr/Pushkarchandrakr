@@ -42,6 +42,14 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
  <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
+<h3>Reach out to me 🙏</h3>
+
+|  <a href="https://pushkarchandrakumar.netlify.app/"><img src="https://i.ibb.co/7Rqm7Gn/bde493fed4ac.jpg" width="150px" height="150px" /></a> |
+|:---------------------------------------------------------------------------------------------------------------------------------------: |
+|       **[PushkarchandraKumar ](https://pushkarchandrakumar.netlify.app/)**                                                                                |
+|<a href="https://t.me/Pushkar_chatbot" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="PushkarchandraKumar" height="40" width="40" /></a> |
+
+
 
 <details><summary><b>My Repository</b></summary>
 <br/>
