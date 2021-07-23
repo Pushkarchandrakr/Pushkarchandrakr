@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About 🙋🏻‍♂️
+
 Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer  from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
@@ -42,24 +44,6 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 |<a href="https://t.me/Pushkar_chatbot" target="blank"><img align="center" src="https://upload-icon.s3.us-east-2.amazonaws.com/uploads/icons/png/1766858341556105723-512.png" alt="PushkarchandraKumar" height="40" width="40" /></a> |
 
 
-
-<details><summary><b>My Repository</b></summary>
-<br/>
-
-<a href="https://github.com/Pushkarchandrakumar/Github-user-Finder">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Github-user-Finder&theme=dark" />
-</a>
-<a href="https://github.com/Pushkarchandrakumar/Paintpad-tool">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Paintpad-tool&theme=dark" />
-</a>
-
-
-</details>
-
-
-**Page Views**(Counting since 18th july 2021): ![Visitor Count](https://profile-counter.glitch.me/pushkarchandrakumar/count.svg)
-
-
 ## Metrics
 <div align="center">
 
@@ -80,6 +64,16 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+<details><summary><b>My Repository</b></summary>
+<br/>
+<a href="https://github.com/Pushkarchandrakumar/Github-user-Finder">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Github-user-Finder&theme=dark" />
+</a>
+<a href="https://github.com/Pushkarchandrakumar/Paintpad-tool">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Paintpad-tool&theme=dark" />
+</a>
+</details>
 <details><summary><b>Contribution Graph & Trophy</b></summary>
 <br/>
 <p align="center">
@@ -96,4 +90,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 </a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </details>
+
+**Page Views**(Counting since 18th july 2021): ![Visitor Count](https://profile-counter.glitch.me/pushkarchandrakumar/count.svg)
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkarchandrakumar&theme=dark" alt="Pushkarchandrakumar" /></p>
