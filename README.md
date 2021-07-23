@@ -22,18 +22,6 @@ Here are some ideas to get you started:
 Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer  from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 
-<details><summary><b>Contribution Graph</b></summary>
-<br/>
-<p align="center">
-    <img
-        width="100%"
-        src="https://activity-graph.herokuapp.com/graph?username=pushkarchandrakumar&custom_title=Contribution+Graph&theme=react-dark"
-    />
-</p>
-</details>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pushkarchandrakumar" alt="Pushkarchandrakumar" />
-</a> </p>
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
 <a href='https://archiveprogram.github.com/'>
 <img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
@@ -92,10 +80,20 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<details><summary><b>Contribution Graph & Trophy</b></summary>
+<br/>
+<p align="center">
+    <img
+        width="100%"
+        src="https://activity-graph.herokuapp.com/graph?username=pushkarchandrakumar&custom_title=Contribution+Graph&theme=react-dark"
+    />
+</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pushkarchandrakumar" alt="Pushkarchandrakumar" />
+</a> </p>
 
 <a href="https://github.com/pushkarchandrakumar/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pushkarchandrakumar&theme=tokyonight" />
 </a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
-
+</details>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkarchandrakumar&theme=dark" alt="Pushkarchandrakumar" /></p>
