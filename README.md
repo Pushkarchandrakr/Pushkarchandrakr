@@ -74,7 +74,7 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pushkarchandraKumar&repo=Paintpad-tool&theme=dark" />
 </a>
 </details>
-<details><summary><b>Contribution Graph & Trophy</b></summary>
+<details><summary><b> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Contribution Graph & Trophy</b></summary>
 <br/>
 <p align="center">
     <img
@@ -90,7 +90,11 @@ Hi, I'm Pushkar chandra kumar, a passionate self-taught Full Stack web developer
 </a>
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pushkarchandrakumar&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=tokyonight" />
 </details>
-
-**Page Views**(Counting since 18th july 2021): ![Visitor Count](https://profile-counter.glitch.me/pushkarchandrakumar/count.svg)
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/pushkarchandraKumar/count.svg" alt=""/></td>
+  </tr>
+</table>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pushkarchandrakumar&theme=dark" alt="Pushkarchandrakumar" /></p>
